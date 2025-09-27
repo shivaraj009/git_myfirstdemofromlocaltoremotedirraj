@@ -1,0 +1,7 @@
+[2025-09-27 18:07:12] INFO: Application started successfully.
+[2025-09-27 18:07:15] DEBUG: User clicked 'Start Game' button.
+[2025-09-27 18:07:18] WARN: Audio driver not detected, using fallback.
+[2025-09-27 18:07:22] ERROR: Failed to load texture from path: /assets/cricket_pitch.png
+[2025-09-27 18:07:25] INFO: Game session initialized for user: Shivaraj
+[2025-09-27 18:07:30] DEBUG: Earphone output switched to Realtek Audio
+[2025-09-27 18:07:35] INFO: EA Sports Cricket 07 mod loaded successfully
